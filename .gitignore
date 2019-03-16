@@ -1,0 +1,6 @@
+data/
+saved_model/
+*.csv
+.ipynb_checkpoints/
+k_fold_metadata/
+__pycache__/
