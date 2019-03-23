@@ -4,3 +4,4 @@ saved_model/
 .ipynb_checkpoints/
 k_fold_metadata/
 __pycache__/
+results/
