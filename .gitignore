@@ -5,3 +5,4 @@ saved_model/
 k_fold_metadata/
 __pycache__/
 results/
+numpy_outs/
