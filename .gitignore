@@ -6,3 +6,22 @@ k_fold_metadata/
 __pycache__/
 results/
 numpy_outs/
+
+# Local environments, caches, data, and generated artifacts
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.env
+.env.*
+!.env.example
+data/
+artifacts/
+onnx_model/
+*.joblib
+*.pt
+
+# Versioned setup and synthetic examples
+!examples/
+!examples/*.csv
